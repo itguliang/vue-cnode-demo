@@ -1,6 +1,6 @@
 # vue-demo
 
-> 地址http://itguliang.github.io/project/vue-cnode-demo
+> 地址:https://itguliang.github.io/vue-cnode-demo/
 
 ## Build Setup
 
