@@ -1,6 +1,6 @@
 # vue-demo
 
-> 参考例子http://shinygang.coding.me/
+> 地址http://itguliang.github.io/project/vue-cnode-demo
 
 ## Build Setup
 
@@ -14,3 +14,4 @@ npm run dev
 # build for production with minification
 npm run build
 ```
+> (参考例子http://shinygang.coding.me/)

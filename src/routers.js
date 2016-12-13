@@ -19,14 +19,6 @@ const routers = [{
 	name: 'list',
 	component: List
 }, {
-	path: '/topic/:id',
-	name: 'topic',
-	component(resolve) {
-		require.ensure(['./views/topic.vue'], () => {
-			resolve(require('./views/topic.vue'));
-		});
-	}
-}, {
 	path: '*',
 	component: Home
 }]
